@@ -7,9 +7,9 @@ This project demonstrates foundational HTML skills by creating a simple recipe w
 
 ## Recipes Included
 
-- [Recipe Name 1] - Brief description
-- [Recipe Name 2] - Brief description  
-- [Recipe Name 3] - Brief description
+- Chicken Tikka - Brief description
+- Waffles - Brief description  
+- Lasagna - Brief description
 
 ## Skills Practiced
 
